@@ -202,10 +202,10 @@
                             <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" textAlignment="natural" translatesAutoresizingMaskIntoConstraints="NO" id="UA4-hG-0ve">
                                 <rect key="frame" x="328" y="44" width="516" height="236"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <string key="text">Hi, I'm Daniel Vieira Mathias da Silva, I have 21 years old
+                                <string key="text">Hello, my name is Daniel Vieira, I'm 21 years old
 
-I'm working with developement systems around 2 years (Java Language, Spring framework and Angular + to front-end)
-Now, I'm practice Swift because when i see a friend working with the language I think "thats cool, i want learn this" and now I'm</string>
+I've been working with systems development for about 2 years
+I have always worked with web development, now I have acquired a Macbook to learn swift and join the mobile development area, I have some friends who already work in the area and their feedback on it is quite exciting.</string>
                                 <color key="textColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
                                 <fontDescription key="fontDescription" name="ArialRoundedMTBold" family="Arial Rounded MT Bold" pointSize="17"/>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
