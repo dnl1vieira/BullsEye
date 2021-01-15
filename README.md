@@ -5,7 +5,7 @@ Project made to learn a little bit about construction of views and storyboard wi
 ![Thumbnail](assets/BullsEye.gif)
 
 ## What I’ve Learned
-- How to create a view in story board
+- How to create a view in storyboard
 - Use outlets and actions
 - Connection between outlets, actions and view controller
 - Use a external style and change the buttons by images
